@@ -1,0 +1,7 @@
+2025-04-04 11:54:54.189997 - Received CBT.V508.FILE567.PDS from FILE567.XMI 
+2025-04-04 11:54:54.190717 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE567.PDS, moved to PDS/$$$#DATE
+2025-04-04 11:54:54.190865 - Found $DOC.txt (text/plain) in CBT.V508.FILE567.PDS, moved to PDS/$DOC
+2025-04-04 11:54:54.191007 - Found @FILE567.txt (text/plain) in CBT.V508.FILE567.PDS, moved to PDS/@FILE567
+2025-04-04 11:54:54.191161 - Found CSVLLIX2.txt (text/plain) in CBT.V508.FILE567.PDS, moved to PDS/CSVLLIX2
+2025-04-04 11:54:54.191292 - Found SMFLLA.txt (text/plain) in CBT.V508.FILE567.PDS, moved to PDS/SMFLLA
+2025-04-04 11:54:54.191435 - Found SMF41S.txt (text/plain) in CBT.V508.FILE567.PDS, moved to PDS/SMF41S
